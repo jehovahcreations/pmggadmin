@@ -1,0 +1,45 @@
+/*body,
+ table,
+    thead,
+    tr,
+    tbody,
+    th,
+    td {
+        text-align: center;
+    }*/
+
+body {
+    text-align: center !important;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+input {
+    text-align: center;
+}
+
+.mssg {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.redBlock {
+    width: 1000px;
+    height: 1000px;
+    margin-top: 50px;
+    background-color: rgb(251, 255, 255);
+    display: block
+}
+
+.redBlock1 {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    background-color: gray;
+    display: block;
+    padding: 50px;
+}
